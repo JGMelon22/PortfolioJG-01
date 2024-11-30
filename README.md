@@ -1,6 +1,7 @@
 # Portfolio JG
 This repository contains the source code for my personal developer portfolio so far. <br/>
-There are plans to update irt during time with new stacks and improving UI as well.
+There are plans to update irt during time with new stacks and improving UI as well. <br/>
+<span>Used Bootstrap theme: <a href="https://bootswatch.com/flatly/">Flatly</a></span>
 
 <h3>Technologies</h3>
 <div style="display: flex; gap: 10px;">
